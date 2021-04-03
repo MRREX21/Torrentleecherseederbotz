@@ -18,10 +18,10 @@ A Telegram Torrent (and youtube-dl) Leecher based on [Pyrogram](https://github.c
     ✓ Option to select either video will be uploaded as document or streamable
     ✓ Added /renewme command to clear the downloads which are not deleted automatically.
     ✓ Added support for youtube playlist 😐
-    ✓
-    ===========[MaxxRider]=========
+    
+  
 
-[![Deploy](https://www.herokucdn.com/deploy/button.svg)](https://heroku.com/deploy) 𝐃𝐞𝐩𝐥𝐨𝐲 𝐲𝐨𝐮𝐫 𝐨𝐰𝐧 𝐑𝐢𝐬𝐤😑🤷
+[![Deploy](https://www.h
 
 
 ## Credits, and Thanks to
